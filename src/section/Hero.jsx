@@ -3,9 +3,9 @@ import profile from "../assets/profile.png";
 
 export default function Hero() {
     return (
-        <div className="grid grid-cols-5 py-16 px-36 text-[#21243D] mx-10">
+        <div className="grid grid-cols-5 py-16 px-36 text-[#21243D]">
             <div className="col-span-3 self-center">
-                <h1 className="text-7xl sm:text-4xl font-bold my-16">
+                <h1 className="md:text-7xl sm:text-4xl font-bold my-16">
                     Hi, I am John, <br /> Creative Technologist
                 </h1>
                 <p className="text-3xl sm:text-xl">

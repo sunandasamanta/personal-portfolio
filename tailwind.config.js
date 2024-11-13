@@ -15,11 +15,7 @@ export default {
             dark: "#21243D",
             white: "#FFFFFF",
             black: "#000000",
-        },
-        screens: {
-            sm: {
-                max: "640px",
-            },
+            "red-500": "#ef4444",
         },
     },
     plugins: [],
